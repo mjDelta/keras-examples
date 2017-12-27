@@ -8,4 +8,5 @@ keras version:2.1.2</br>
 2.<a href="https://github.com/mjDelta/keras-examples/blob/master/ex02_Binary%20Classification.ipynb">binary classification</a></br>
 3.<a href="https://github.com/mjDelta/keras-examples/blob/master/ex03_multi%20classification.pynb">multi classification</a></br>
 4.<a href="https://github.com/mjDelta/keras-examples/blob/master/ex04_regression.ipynb">scalar regression</a></br>
+4.<a href="https://github.com/mjDelta/keras-examples/blob/master/ex05_cnn.ipynb">cnn</a></br>
 
