@@ -9,4 +9,7 @@ keras version:2.1.2</br>
 3.<a href="https://github.com/mjDelta/keras-examples/blob/master/ex03_multi%20classification.pynb">multi classification</a></br>
 4.<a href="https://github.com/mjDelta/keras-examples/blob/master/ex04_regression.ipynb">scalar regression</a></br>
 5.<a href="https://github.com/mjDelta/keras-examples/blob/master/ex05_cnn.ipynb">cnn</a></br>
+6.<a href="https://github.com/mjDelta/keras-examples/blob/master/ex06_training_from_scratch.ipynb">training from scrtch</a></br>
+![image](https://github.com/mjDelta/keras-examples/blob/master/imgs/ex06_overfit.png)
+![image](https://github.com/mjDelta/keras-examples/blob/master/imgs/ex06_fix_overfit.png)</br>
 
