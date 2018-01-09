@@ -10,6 +10,6 @@ keras version:2.1.2</br>
 4.<a href="https://github.com/mjDelta/keras-examples/blob/master/ex04_regression.ipynb">scalar regression</a></br>
 5.<a href="https://github.com/mjDelta/keras-examples/blob/master/ex05_cnn.ipynb">cnn</a></br>
 6.<a href="https://github.com/mjDelta/keras-examples/blob/master/ex06_training_from_scratch.ipynb">training from scrtch</a></br>
-![image](https://github.com/mjDelta/keras-examples/blob/master/imgs/ex06_overfit.png)
-![image](https://github.com/mjDelta/keras-examples/blob/master/imgs/ex06_fix_overfit.png)</br>
-
+7.<a href="https://github.com/mjDelta/keras-examples/blob/master/ex07_feature_extraction.ipynb">pretrained_model for feature extraction</a></br>
+8.<a href="https://github.com/mjDelta/keras-examples/blob/master/ex08_freeze_pretrained_model.ipynb">pretrained_model: freezing</a></br>
+9.<a href="https://github.com/mjDelta/keras-examples/blob/master/ex09_fine_tuning.ipynb">pretrained_model: fine tuning</a></br>
