@@ -16,4 +16,4 @@ keras version:2.1.2</br>
 10.<a href="https://github.com/mjDelta/keras-examples/blob/master/ex10_visualize_activations.ipynb">visualization of activation</a></br>
 11.<a href="https://github.com/mjDelta/keras-examples/blob/master/ex11_visualize_conv_filters.ipynb">visualization of convolution filters</a></br>
 12.<a href="https://github.com/mjDelta/keras-examples/blob/master/ex12_class_activation_map.ipynb">visualization of class activation map</a></br>
-13.<a href="https://github.com/mjDelta/keras-examples/blob/master/ex13_text_processing.ipynb">keras' methods for text preprocessing</a></br>
+13.<a href="https://github.com/mjDelta/keras-examples/blob/master/ex13_text_preprocessing.ipynb">keras' methods for text preprocessing</a></br>
