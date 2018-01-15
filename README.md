@@ -17,3 +17,5 @@ keras version:2.1.2</br>
 11.<a href="https://github.com/mjDelta/keras-examples/blob/master/ex11_visualize_conv_filters.ipynb">visualization of convolution filters</a></br>
 12.<a href="https://github.com/mjDelta/keras-examples/blob/master/ex12_class_activation_map.ipynb">visualization of class activation map</a></br>
 13.<a href="https://github.com/mjDelta/keras-examples/blob/master/ex13_text_preprocessing.ipynb">keras' methods for text preprocessing</a></br>
+14.<a href="https://github.com/mjDelta/keras-examples/blob/master/ex14_embdding1.ipynb">embedding</a></br>
+15.<a href="https://github.com/mjDelta/keras-examples/blob/master/ex15_embedding2_pretrained_vectors.ipynb">embedding: pretrained glove</a></br>
